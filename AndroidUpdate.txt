@@ -1,1 +1,1 @@
-Change Browsing Mode on App Start, App Resume, and when an External Link is Opened
+Disable tab Swiping (Only available on iOS 12 and up)
