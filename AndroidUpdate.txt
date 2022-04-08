@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+Show Tab Count - Shows the tab count on the button that opens the tab switcher
