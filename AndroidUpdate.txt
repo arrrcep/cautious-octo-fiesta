@@ -1,1 +1,1 @@
-Many available actions to trigger
+Auto Close Tabs when Safari is Minimized or Closed
