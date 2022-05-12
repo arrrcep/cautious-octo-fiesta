@@ -1,1 +1,1 @@
-Auto Close Tabs when Safari is Minimized or Closed
+Fullscreen Scrolling - Hide the top bar when scrolling down
