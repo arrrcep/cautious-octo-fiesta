@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Suppress Mailto Dialog (on iOS 10 and above)
