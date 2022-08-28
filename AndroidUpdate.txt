@@ -1,1 +1,1 @@
-Show Full Site URL - Always show the full URL in the top bar
+URL Bar Swipe Left, Right, and Down Gestures
