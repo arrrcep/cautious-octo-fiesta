@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
