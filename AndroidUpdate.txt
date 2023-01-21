@@ -1,1 +1,1 @@
-Suppress Mailto Dialog (on iOS 10 and above)
+Color Settings for the Top Toolbar, Bottom Toolbar and the Tab Switcher for both normal and private browsing modes
