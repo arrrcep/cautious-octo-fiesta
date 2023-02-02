@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Always Open Links in New Tab (+ Option to always open in background)
