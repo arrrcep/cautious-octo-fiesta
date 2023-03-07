@@ -1,1 +1,1 @@
-Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
+Insert Suggestion on Long Press - Insert a search suggestion into the URL bar by long pressing it
