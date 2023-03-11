@@ -1,1 +1,1 @@
-Many available actions to trigger
+Auto-Clear Browser Data hen Safari is Minimized or Closed
