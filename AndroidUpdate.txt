@@ -1,1 +1,1 @@
-Change the button order of the Top and Bottom Toolbars and add additional buttons
+Show Full Site URL - Always show the full URL in the top bar
