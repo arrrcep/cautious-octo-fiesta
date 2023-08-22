@@ -1,1 +1,1 @@
-Toolbar Swipe Left, Right, and Up / Down Gestures
+URL Bar Swipe Left, Right, and Down Gestures
