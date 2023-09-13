@@ -1,1 +1,1 @@
-Many available actions to trigger
+Disable Tab Limit - Disables the default tab limit (varies between devices)
