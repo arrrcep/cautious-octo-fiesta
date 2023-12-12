@@ -1,1 +1,1 @@
-Custom User Agent - Change the user agent for both mobile and desktop mode
+Upload Any File - An additional option to the document sheet that can be used to upload any file on your root file system
