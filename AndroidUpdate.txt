@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+URL Bar Swipe Left, Right, and Down Gestures
