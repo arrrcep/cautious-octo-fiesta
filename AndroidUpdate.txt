@@ -1,1 +1,1 @@
-URL Bar Swipe Left, Right, and Down Gestures
+Many available actions to trigger
