@@ -1,1 +1,1 @@
-Show Tab Count - Shows the tab count on the button that opens the tab switcher
+Custom Start Site - Change the default favorites view when opening a new tab to a specified URL
